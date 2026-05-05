@@ -44,7 +44,7 @@ Video → Audio → Chunking → Speech-to-Text → Transcript → LLM → Notes
 1. Clone repository  
 ```bash
 git clone https://github.com/bhavyaaaa08/video-to-notes.git
-cd video-to-notes-ai
+cd video-to-notes
 ```
 2. Create Virtual Environment
 ```bash
@@ -83,3 +83,4 @@ Saved inside the output/ folder.
 - Audio is converted to mono for compatibility
 - Chunking is used due to API size limits
 - Large transcripts may be truncated for local models
+- You need to create a videos/ directory and upload a sample video to check it.

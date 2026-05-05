@@ -3,7 +3,7 @@ from utils.stt import transcribe_chunks
 from utils.notes import generate_notes
 import os
 
-VIDEO_PATH = r"C:\Users\nanaj\Documents\accure internship\video documentation\videos\test1.mp4"
+VIDEO_PATH = r"videos/sample.mp4"
 AUDIO_PATH = "audio/audio.wav"
 
 def process_video():

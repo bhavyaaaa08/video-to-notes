@@ -43,7 +43,7 @@ Video → Audio → Chunking → Speech-to-Text → Transcript → LLM → Notes
 
 1. Clone repository  
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/bhavyaaaa08/video-to-notes.git
 cd video-to-notes-ai
 ```
 2. Create Virtual Environment

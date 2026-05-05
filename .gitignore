@@ -4,6 +4,5 @@ audio/
 chunks/
 output/
 *.wav
-*.json
 .env
 videos/
